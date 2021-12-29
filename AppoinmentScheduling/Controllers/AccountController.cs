@@ -19,5 +19,10 @@ namespace AppoinmentScheduling.Controllers
         {
             return View();
         }
+
+        public IActionResult Register()
+        {
+            return View();
+        }
     }
 }
