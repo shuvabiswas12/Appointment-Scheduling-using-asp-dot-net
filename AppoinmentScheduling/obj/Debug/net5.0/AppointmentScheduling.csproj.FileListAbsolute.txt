@@ -387,3 +387,5 @@ C:\Users\USER-PC\source\repos\AppoinmentScheduling\AppoinmentScheduling\obj\Debu
 C:\Users\USER-PC\source\repos\AppoinmentScheduling\AppoinmentScheduling\obj\Debug\net5.0\AppointmentScheduling.pdb
 C:\Users\USER-PC\source\repos\AppoinmentScheduling\AppoinmentScheduling\obj\Debug\net5.0\AppointmentScheduling.genruntimeconfig.cache
 C:\Users\USER-PC\source\repos\AppoinmentScheduling\AppoinmentScheduling\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\USER-PC\source\repos\AppoinmentScheduling\AppoinmentScheduling\obj\Debug\net5.0\AppointmentScheduling.csproj.AssemblyReference.cache
+C:\Users\USER-PC\source\repos\AppoinmentScheduling\AppoinmentScheduling\obj\Debug\net5.0\staticwebassets\AppointmentScheduling.StaticWebAssets.xml
