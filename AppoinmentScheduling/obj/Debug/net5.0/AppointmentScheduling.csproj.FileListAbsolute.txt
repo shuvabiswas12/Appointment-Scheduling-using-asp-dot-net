@@ -434,3 +434,4 @@ C:\Users\USER-PC\source\repos\AppoinmentScheduling\AppoinmentScheduling\bin\Debu
 C:\Users\USER-PC\source\repos\AppoinmentScheduling\AppoinmentScheduling\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\USER-PC\source\repos\AppoinmentScheduling\AppoinmentScheduling\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\USER-PC\source\repos\AppoinmentScheduling\AppoinmentScheduling\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\USER-PC\source\repos\AppoinmentScheduling\AppoinmentScheduling\obj\Debug\net5.0\Razor\Views\Appointment\Index.cshtml.g.cs
